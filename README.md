@@ -5,7 +5,7 @@
 AutoML recorded videos for DataRobot
 Link: https://drive.google.com/drive/folders/1OyW4mKbslBxf2oZpnL_9paJE5gtrure9?usp=drive_link
 
-## Assignment-1
+## Assignment-2
 
 **Classification - Binary Classification**
 
